@@ -14,7 +14,7 @@ An automated workflow built using n8n to generate and send AI-powered internship
 
 ## 🛠 Tech Stack
 - n8n
-- OpenAI API
+- Google Gemini API
 - Gmail API
 - Google Sheets API
 
